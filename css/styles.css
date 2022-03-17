@@ -3,7 +3,12 @@ body {
 
 }
 
-h1, h3 {
+h1 {
+  color: gold;
+
+  }
+
+h3 {
   color: #66BFBF;
 }
 
